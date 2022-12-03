@@ -4,7 +4,7 @@
 target/
 .idea/
 .idea
-.repository/
+#.repository/
 *.iml
 *.iws
 *.jrtc
