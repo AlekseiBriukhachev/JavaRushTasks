@@ -1,0 +1,15 @@
+package com.javarush.task.pro.task05.task0501;
+
+/* 
+Создаем массивы
+*/
+
+public class Solution {
+    public static void main(String[] args) {
+        //напишите тут ваш код
+        //В методе main проинициализируй переменные intArray и doubleArray
+        // массивами соответствующих типов, размер которых равен 10.
+        int[] intArray = new int[10];
+        double[] doubleArray = new double[10];
+    }
+}
