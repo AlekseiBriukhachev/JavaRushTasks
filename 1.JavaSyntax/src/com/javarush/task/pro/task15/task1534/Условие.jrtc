@@ -1,0 +1,10 @@
+taskKey="com.javarush.task.pro.task15.task1534"\n\nРазбиваем файл на части
+
+Реализуй метод trimByPosition: он должен обрезать файл представленный каналом fileChannel до его текущей позиции.
+
+
+Требования:
+1.	Метод trimByPosition должен определить текущую позицию fileChannel.
+2.	Метод trimByPosition должен обрезать файл канала fileChannel до текущей позиции.
+
+
