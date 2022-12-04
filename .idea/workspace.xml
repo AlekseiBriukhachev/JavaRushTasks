@@ -2,7 +2,54 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="init">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/8.Games/com/javarush/games/game2048/Game2048$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/8.Games/com/javarush/games/game2048/Game2048.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/8.Games/com/javarush/games/game2048/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/8.Games/com/javarush/games/minesweeper/GameObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/8.Games/com/javarush/games/minesweeper/MinesweeperGame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/8.Games/com/javarush/games/minesweeper/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/8.Games/com/javarush/games/moonlander/GameObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/8.Games/com/javarush/games/moonlander/MoonLanderGame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/8.Games/com/javarush/games/moonlander/Rocket.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/8.Games/com/javarush/games/moonlander/RocketFire.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/8.Games/com/javarush/games/moonlander/ShapeMatrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/8.Games/com/javarush/games/moonlander/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/8.Games/com/javarush/games/racer/Direction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/8.Games/com/javarush/games/racer/FinishLine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/8.Games/com/javarush/games/racer/GameObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/8.Games/com/javarush/games/racer/PlayerCar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/8.Games/com/javarush/games/racer/ProgressBar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/8.Games/com/javarush/games/racer/RacerGame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/8.Games/com/javarush/games/racer/RoadMarking.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/8.Games/com/javarush/games/racer/ShapeMatrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/8.Games/com/javarush/games/racer/road/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/8.Games/com/javarush/games/racer/road/MovingCar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/8.Games/com/javarush/games/racer/road/RoadManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/8.Games/com/javarush/games/racer/road/RoadObject$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/8.Games/com/javarush/games/racer/road/RoadObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/8.Games/com/javarush/games/racer/road/RoadObjectType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/8.Games/com/javarush/games/racer/road/Thorn.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/8.Games/com/javarush/games/racer/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/8.Games/com/javarush/games/snake/Apple.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/8.Games/com/javarush/games/snake/Direction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/8.Games/com/javarush/games/snake/GameObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/8.Games/com/javarush/games/snake/Snake.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/8.Games/com/javarush/games/snake/SnakeGame$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/8.Games/com/javarush/games/snake/SnakeGame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/8.Games/com/javarush/games/snake/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/8.Games/com/javarush/games/spaceinvaders/Direction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/8.Games/com/javarush/games/spaceinvaders/ShapeMatrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/8.Games/com/javarush/games/spaceinvaders/SpaceInvadersGame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/8.Games/com/javarush/games/spaceinvaders/gameobjects/Boss.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/8.Games/com/javarush/games/spaceinvaders/gameobjects/Bullet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/8.Games/com/javarush/games/spaceinvaders/gameobjects/EnemyFleet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/8.Games/com/javarush/games/spaceinvaders/gameobjects/EnemyShip.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/8.Games/com/javarush/games/spaceinvaders/gameobjects/GameObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/8.Games/com/javarush/games/spaceinvaders/gameobjects/PlayerShip.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/8.Games/com/javarush/games/spaceinvaders/gameobjects/Ship.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/8.Games/com/javarush/games/spaceinvaders/gameobjects/Star.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/8.Games/com/javarush/games/spaceinvaders/Условие.jrtc" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,7 +171,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
@@ -509,7 +556,28 @@
       <option name="project" value="LOCAL" />
       <updated>1670151844841</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="init">
+      <created>1670151990779</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1670151990779</updated>
+    </task>
+    <task id="LOCAL-00008" summary="init">
+      <created>1670152035065</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1670152035065</updated>
+    </task>
+    <task id="LOCAL-00009" summary="init">
+      <created>1670152181037</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1670152181037</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
