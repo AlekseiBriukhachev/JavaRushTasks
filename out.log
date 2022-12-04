@@ -196,3 +196,51 @@
 2022-12-04 14:46:42 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
 2022-12-04 14:46:43 INFO  ApacheHttpClient.completed(32) - responseCode = 200
 2022-12-04 14:46:43 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-12-04 14:47:30 INFO  ProjectStartupHandler.projectClosing(155) - ---------- Project closed ----------
+
+2022-12-04 14:47:30 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-12-04 14:47:30 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.
+2022-12-04 21:02:49 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2022-12-04 21:02:49 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 4.01 ----------
+
+2022-12-04 21:02:49 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-12-04 21:02:49 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2022-12-04 21:02:49 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2022-12-04 21:02:49 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2022-12-04 21:10:03 INFO  ProjectStartupHandler.projectClosing(155) - ---------- Project closed ----------
+
+2022-12-04 21:10:03 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-12-04 21:10:03 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-12-04 21:10:03 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-12-04 21:10:03 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.
+2022-12-04 21:10:34 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2022-12-04 21:10:34 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 4.01 ----------
+
+2022-12-04 21:10:34 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-12-04 21:10:36 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2022-12-04 21:10:36 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2022-12-04 21:10:36 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2022-12-04 21:17:42 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-12-04 21:17:42 INFO  PluginProjectService.<init>(33) - PluginProjectService for JavaRushTasks initiated.
+2022-12-04 21:17:42 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2022-12-04 21:17:42 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 4.01 ----------
+
+2022-12-04 21:17:42 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-12-04 21:17:42 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2022-12-04 21:17:42 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2022-12-04 21:17:42 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2022-12-04 21:19:26 INFO  ProjectStartupHandler.projectClosing(155) - ---------- Project closed ----------
+
+2022-12-04 21:19:26 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-12-04 21:19:26 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-12-04 21:19:26 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.
+2022-12-04 21:19:31 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.
+2022-12-04 22:44:07 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2022-12-04 22:44:07 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 4.01 ----------
+
+2022-12-04 22:44:07 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-12-04 22:44:08 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2022-12-04 22:44:08 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2022-12-04 22:44:08 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2022-12-04 22:44:15 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-12-04 22:44:15 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
