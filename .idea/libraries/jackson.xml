@@ -1,14 +1,14 @@
 <component name="libraryTable">
   <library name="jackson">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../Librarys/jackson-annotations-2.6.1.jar!/" />
-      <root url="jar://$PROJECT_DIR$/../Librarys/jackson-core-2.6.1.jar!/" />
-      <root url="jar://$PROJECT_DIR$/../Librarys/jackson-databind-2.6.1.jar!/" />
-      <root url="jar://$PROJECT_DIR$/../Librarys/jackson-dataformat-xml-2.13.2.jar!/" />
-      <root url="jar://$PROJECT_DIR$/../Librarys/jackson-dataformat-yaml-2.13.2.jar!/" />
-      <root url="jar://$PROJECT_DIR$/../Librarys/snakeyaml-1.30.jar!/" />
-      <root url="jar://$PROJECT_DIR$/../Librarys/stax2-api-4.2.1.jar!/" />
-      <root url="jar://$PROJECT_DIR$/../Librarys/woodstox-core-6.2.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../libs/jackson-annotations-2.13.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../libs/jackson-core-2.13.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../libs/jackson-dataformat-xml-2.13.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../libs/snakeyaml-1.30.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../libs/stax2-api-4.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../libs/woodstox-core-6.2.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../libs/jackson-databind-2.13.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../libs/jackson-dataformat-yaml-2.13.2.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
