@@ -34940,3 +34940,159 @@ java.lang.StringIndexOutOfBoundsException: String index out of range: -1
 2022-12-04 11:58:58 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
 2022-12-04 11:58:58 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
 2022-12-04 11:58:58 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2022-12-04 12:17:20 INFO  ProjectStartupHandler.projectClosing(155) - ---------- Project closed ----------
+
+2022-12-04 12:17:21 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-12-04 12:17:21 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-12-04 12:17:21 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.
+2022-12-04 12:26:10 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-12-04 12:26:30 ERROR PluginUtil.getUserPropertyFromProjectByKey(358) - Error while using a key to get a property from properties file.
+java.lang.NullPointerException
+	at java.base/java.util.Objects.requireNonNull(Objects.java:221)
+	at com.homework.plugin.PluginUtil.getProjectRootVF(PluginUtil.java:957)
+	at com.homework.plugin.PluginUtil.getPluginPropertiesFile(PluginUtil.java:968)
+	at com.homework.plugin.PluginUtil.getUserPropertyFromProjectByKey(PluginUtil.java:336)
+	at com.homework.plugin.PluginUtil.getSession(PluginUtil.java:894)
+	at com.homework.plugin.PluginUtil.downloadHomeWorkTasks(PluginUtil.java:433)
+	at com.homework.plugin.PluginUtil.isProjectIncorrect(PluginUtil.java:412)
+	at com.homework.plugin.button.AbstractButton.performCheck(AbstractButton.java:37)
+	at com.homework.plugin.button.SelectTaskButton.actionPerformed(SelectTaskButton.java:27)
+	at com.intellij.openapi.actionSystem.impl.ActionButton.actionPerformed(ActionButton.java:171)
+	at com.intellij.openapi.actionSystem.impl.ActionButton.lambda$performAction$0(ActionButton.java:150)
+	at com.intellij.openapi.actionSystem.ex.ActionUtil.performDumbAwareWithCallbacks(ActionUtil.java:261)
+	at com.intellij.openapi.actionSystem.impl.ActionButton.performAction(ActionButton.java:150)
+	at com.intellij.openapi.actionSystem.impl.ActionButton.processMouseEvent(ActionButton.java:427)
+	at java.desktop/java.awt.Component.processEvent(Component.java:6417)
+	at java.desktop/java.awt.Container.processEvent(Container.java:2263)
+	at java.desktop/java.awt.Component.dispatchEventImpl(Component.java:5027)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2321)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4859)
+	at java.desktop/java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4918)
+	at java.desktop/java.awt.LightweightDispatcher.processMouseEvent(Container.java:4547)
+	at java.desktop/java.awt.LightweightDispatcher.dispatchEvent(Container.java:4488)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2307)
+	at java.desktop/java.awt.Window.dispatchEventImpl(Window.java:2784)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4859)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:778)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:727)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:95)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:751)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:749)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:748)
+	at com.intellij.ide.IdeEventQueue.defaultDispatchEvent(IdeEventQueue.java:885)
+	at com.intellij.ide.IdeEventQueue.dispatchMouseEvent(IdeEventQueue.java:814)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:751)
+	at com.intellij.ide.IdeEventQueue.lambda$dispatchEvent$6(IdeEventQueue.java:441)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.computePrioritized(CoreProgressManager.java:825)
+	at com.intellij.ide.IdeEventQueue.lambda$dispatchEvent$7(IdeEventQueue.java:440)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runIntendedWriteActionOnCurrentThread(ApplicationImpl.java:794)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:492)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+2022-12-04 12:26:30 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-12-04 12:26:34 INFO  PluginProjectService.<init>(33) - PluginProjectService for JavaRushTasks initiated.
+2022-12-04 12:26:35 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-12-04 12:26:35 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2022-12-04 12:26:35 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 4.01 ----------
+
+2022-12-04 12:26:35 INFO  ProjectStartupHandler.setAutoscrolls(346) - Autoscrolls successfully set
+2022-12-04 12:26:35 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(589) - The session is not set in the property file.
+2022-12-04 12:26:35 INFO  ApacheHttpClient.logout(633) - Waiting for server response.
+2022-12-04 12:26:35 INFO  ApacheHttpClient.logout(633) - Waiting for server response.
+2022-12-04 12:26:35 INFO  ApacheHttpClient.login(250) - Waiting for server response.
+2022-12-04 12:26:35 INFO  ApacheHttpClient.login(254) - responseCode = 200
+2022-12-04 12:26:35 INFO  ApacheHttpClient.login(277) - JSESSIONID OK
+2022-12-04 12:26:35 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2022-12-04 12:26:35 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2022-12-04 12:26:35 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2022-12-04 12:34:58 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-12-04 12:35:00 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-12-04 12:35:05 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-12-04 12:35:07 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-12-04 12:35:42 INFO  ProjectStartupHandler.projectClosing(155) - ---------- Project closed ----------
+
+2022-12-04 12:35:42 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-12-04 12:35:43 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-12-04 12:35:43 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-12-04 12:35:43 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-12-04 12:35:43 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.
+2022-12-04 13:38:04 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2022-12-04 13:38:04 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 4.01 ----------
+
+2022-12-04 13:38:04 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-12-04 13:38:04 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2022-12-04 13:38:04 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2022-12-04 13:38:04 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2022-12-04 13:39:55 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.
+2022-12-04 13:40:07 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-12-04 13:40:07 INFO  PluginProjectService.<init>(33) - PluginProjectService for JavaRushTasks initiated.
+2022-12-04 13:40:07 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2022-12-04 13:40:07 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 4.01 ----------
+
+2022-12-04 13:40:07 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-12-04 13:40:07 INFO  ApacheHttpClient.logout(633) - Waiting for server response.
+2022-12-04 13:40:07 INFO  ApacheHttpClient.login(250) - Waiting for server response.
+2022-12-04 13:40:07 INFO  ApacheHttpClient.login(254) - responseCode = 200
+2022-12-04 13:40:07 INFO  ApacheHttpClient.login(277) - JSESSIONID OK
+2022-12-04 13:40:07 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2022-12-04 13:40:07 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2022-12-04 13:40:07 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2022-12-04 13:40:16 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.
+2022-12-04 13:41:49 INFO  ProjectStartupHandler.projectClosing(155) - ---------- Project closed ----------
+
+2022-12-04 13:41:49 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.
+2022-12-04 13:51:23 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2022-12-04 13:51:23 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 4.01 ----------
+
+2022-12-04 13:51:23 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-12-04 13:51:23 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2022-12-04 13:51:23 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2022-12-04 13:51:23 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2022-12-04 13:58:05 INFO  ProjectStartupHandler.projectClosing(155) - ---------- Project closed ----------
+
+2022-12-04 13:58:06 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-12-04 13:58:06 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-12-04 13:58:06 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.
+2022-12-04 14:05:13 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.
+2022-12-04 21:17:42 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2022-12-04 21:17:42 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 4.01 ----------
+
+2022-12-04 21:17:42 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-12-04 21:17:42 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2022-12-04 21:17:42 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2022-12-04 21:17:42 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2022-12-04 21:19:26 INFO  ProjectStartupHandler.projectClosing(155) - ---------- Project closed ----------
+
+2022-12-04 21:19:26 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-12-04 21:19:26 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-12-04 21:19:26 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.
+2022-12-04 21:19:31 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.
+2022-12-05 21:17:17 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2022-12-05 21:17:17 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 4.01 ----------
+
+2022-12-05 21:17:17 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-12-05 21:17:17 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2022-12-05 21:17:17 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2022-12-05 21:17:17 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2022-12-05 21:17:50 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-12-05 21:17:50 INFO  PluginProjectService.<init>(33) - PluginProjectService for JavaRushTasks initiated.
+2022-12-05 21:17:50 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2022-12-05 21:17:50 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 4.01 ----------
+
+2022-12-05 21:17:51 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-12-05 21:17:51 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2022-12-05 21:17:51 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2022-12-05 21:17:51 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2022-12-05 21:24:38 INFO  ProjectStartupHandler.projectClosing(155) - ---------- Project closed ----------
+
+2022-12-05 21:24:38 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-12-05 21:24:39 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.
