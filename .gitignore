@@ -26,4 +26,3 @@ target/
 /out.log.*
 
 # Project exclude paths
-/out/
