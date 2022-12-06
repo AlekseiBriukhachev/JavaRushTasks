@@ -4,18 +4,18 @@
 target/
 .idea/
 .idea
-.repository/
-*.iml
-*.iws
-*.jrtc
-*.java
-*.class
-*.info
-*.properties
-*.jar
+#.repository/
+#*.iml
+#*.iws
+#*.jrtc
+#*.java
+#*.class
+#*.info
+#*.properties
+#*.jar
 
 /1.JavaSyntax/
-/2.JavaCore/
+#/2.JavaCore/
 /3.JavaMultithreading/
 /4.JavaCollections/
 /5.OnlineInternship/
@@ -24,5 +24,3 @@ target/
 /Instruction.png
 /out.log
 /out.log.*
-
-# Project exclude paths
